@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/4200695/packaging-a-jar-into-a-dist-dir-with-separated-external-resources-and-dependenci
